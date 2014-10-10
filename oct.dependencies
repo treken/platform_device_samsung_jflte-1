@@ -6,10 +6,10 @@
   "revision": "WIP"
   },
   {
-    "remote": "gh",
-    "repository": "CarbonDev/android_device_samsung_jf-common",
+    "remote": "ok",
+    "repository": "Octo-Kat/android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common",
-    "revision": "kk"
+    "revision": "cm-11.0"
   },
   {
     "remote": "cm",
