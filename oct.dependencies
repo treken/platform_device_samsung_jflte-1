@@ -1,11 +1,5 @@
 [
   {
-  "remote": "ok",
-  "repository": "platform_device_samsung_jflte",
-  "target_path": "device/samsung/jflte",
-  "revision": "WIP"
-  },
-  {
     "remote": "ok",
     "repository": "android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common",
