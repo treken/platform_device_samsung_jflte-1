@@ -20,6 +20,9 @@
 # definition file).
 #
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
+
 # inherit from common JF
 include device/samsung/jf-common/BoardConfigCommon.mk
 
